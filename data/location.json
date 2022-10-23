@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Coxs Bazar",
+        "details": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "image": "https://c4.wallpaperflare.com/wallpaper/770/262/422/himchori-coxs-bazar-bangladesh-wallpaper-preview.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sundarbans",
+        "details": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India's Sundarbans World Heritage site inscribed in 1987.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sundarban_Tiger.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sremangal",
+        "details": "Sreemangal is a city in Sylhet, Bangladesh. It has many popular attractions, including Unakoti, Ham Ham Waterfall, Madhabpur Lake, making it well worth a visit. Sreemangal is a city in Sylhet, Bangladesh.",
+        "image": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rangamati",
+        "details": "Rangamati is located in the Chittagong Division. It is bordered by the Tripura state of India to the north, Bandarban District to the south, Mizoram State of India and Chin State of Myanmar to the east, and Khagrachari and Chittagong Districts to the west.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Beautiful_Rangamati.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bandarban",
+        "details": "Bandarban Hill District is the remotest and least populated district in Bangladesh. The lure of the tallest peaks of Bangladesh, treks through virgin forests and chance to meet more than 15 tribes of the region up close is growing both among Bangladeshis and tourists from other countries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Landscape_of_Bandarban%2C_Bangladesh.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kuakata",
+        "details": "Kuakata is a place of pilgrimage for Hindu and Buddhist communities. Innumerable devotees arrive here at the festivals of 'Rush Purnima' and 'Maghi Purnima'. On these occasions the pilgrims take holy baths at the bay and participate in the traditional fairs.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kuakata_beach.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jaflong",
+        "details": "Jaflong (Bengali: জাফলং) is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Zero_Point_at_Zuflong.jpg/800px-Zero_Point_at_Zuflong.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sajek Valley",
+        "details": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet (610 m) above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+        "image": "https://porzoton.com/wp-content/uploads/2020/03/Sajek-Valley-900.jpg"
+    }
+]
